@@ -15,7 +15,7 @@
     <h1>Daftar Buku</h1>
     <table border="1">
         <tr>
-            <td>Nama</td>
+            <td>Nama Lengkap</td>
             <td>ISBN</td>
             <td>Unit</td>
             <td>ACTION</td>
